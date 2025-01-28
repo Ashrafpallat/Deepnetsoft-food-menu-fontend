@@ -1,0 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Kelly+Slab&family=Oswald:wght@200..700&display=swap');@import "tailwindcss";
+.red-shadow {
+    text-shadow: 4px 4px 0px rgb(118, 0, 0); /* Red shadow */
+  }
